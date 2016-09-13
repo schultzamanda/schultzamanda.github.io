@@ -1,0 +1,63 @@
+
+body{
+	background-color: black;
+  	
+}
+h1{
+	text-align: center;
+	font-size: 34px;
+	font-family: Arial;
+	margin-top: 75px;
+	padding-top: 80px;
+	color: white;
+}
+h2{
+	text-align: left;
+	font-family: Arial;
+	color: white;
+	padding-left: 30px;
+}
+ul li{
+	text-align: left;
+	font-family: Arial;
+	color: white;
+}
+p{
+	text-align: left;
+	font-family: Arial;
+	font-style: cursive;
+	color: white;
+}
+.circle{
+	height: 225px;
+	width: 225px;
+	border-radius: 100%;
+	margin: auto;
+	background-color: grey;
+}
+.ct-chart{
+	height: 400px;
+	width: 400px;
+	border-radius: 100%;
+	margin: auto;
+}
+
+.ct-chart2{
+	height: 400px;
+	width: 400px;
+	border-radius: 100%;
+	margin: auto;
+}
+
+.ct-label{
+	color: #000000;
+	font-weight: bold;
+	font-size: 18px;
+}
+.square{
+	height:175px;
+	width:500px;
+	border-style: 2px solid white;
+	background-color: grey;
+	border-radius: 10%; 
+}
