@@ -17,7 +17,64 @@
 
 </script>
 
-  <h1>Hello Everybody</h1>
+
+<div class="circle"><h1>University or not?</h1></div>
+
+<p>A studdie from SCB year 2012 shows how many people that knew that they wanted to continue study on University after emediately after school.</p>
+
+<div class="square">
+<h2>20 years old or younger</h2>
+	<p>Are you going to studdy at the University when finishing gymnasial studdies?</p>
+		<ul>
+			<li>YES</li>
+			<li>NO</li>
+			<li>I DO NOT KNOW</li>
+		</ul>
+</div>
+
+<div class="ct-chart"></div>
+
+<script type="text/javascript">
+
+var data = {
+  labels: ['YES', 'NO', 'DO NOT KNOW'],
+  series: [82.5, 3.5, 14]
+};
+
+var options = {};
+
+
+new Chartist.Pie('.ct-chart', data, options);
+
+</script>
+
+
+<p>Though asking the same question at an older age showed other results.</p>
+<div class="square">
+<h2>23 to 30 year olds</h2>
+	<p>Are you going to studdy at the University when finishing gymnasial studdies?</p>
+		<ul>
+			<li>YES</li>
+			<li>NO</li>
+			<li>I DO NOT KNOW</li>
+		</ul>
+</div>
+
+<div class="ct-chart2"></div>
+
+<script type="text/javascript">
+
+var data = {
+  labels: ['YES', 'NO', 'DO NOT KNOW'],
+  series: [46.5, 14, 40]
+};
+
+var options = {};
+
+
+new Chartist.Pie('.ct-chart2', data, options);
+
+</script>
   
 </body>
 
