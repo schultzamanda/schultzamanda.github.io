@@ -54,10 +54,3 @@ p{
 	font-weight: bold;
 	font-size: 18px;
 }
-.square{
-	height:175px;
-	width:500px;
-	border-style: 2px solid white;
-	background-color: grey;
-	border-radius: 10%; 
-}
