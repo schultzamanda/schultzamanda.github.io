@@ -1,0 +1,294 @@
+/* FONTS */
+
+@import url("https://fonts.google.com/specimen/Titillium+Web:400i,600i,700i");
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,700");
+
+
+/*CSS FOR TEXT ON ALL */
+body {
+	font-family: 'Titillium Web', sans-serif;
+	background-color: #F1655E;
+}
+h1 {
+	font-family: 'Titillium Web:400i', sans-serif;
+	font-size: 20px;
+	position: fixed-left;
+	margin-left: 50px;
+	margin-bottom: -50px;
+}
+h2 {
+	font-family: 'Titillium Web', sans-serif;
+	padding-top: 40px;
+	color: white;
+}
+p {
+	font-family: 'Titillium Web', sans-serif;
+}
+h3 {
+	font-family: 'Titillium Web', sans-serif;
+	margin-left: 50px;
+	padding-top: 20px;
+	font-size: 50px;
+	color: white;
+}
+h4 {
+	font-family: 'Titillium Web', sans-serif;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 30px;
+	color: white;
+}
+img {
+	height: 200px;
+	width: 400px;
+	margin-top: 50px;
+}
+.box {
+	height: 350px;
+	width: 300px;
+	margin-left: 50px;
+	display: inline-block;
+}
+.header1 {
+	height: 350px;
+	width: 100%;
+	margin-top: -40px;
+	text-align: center;
+	background-color: white;
+}
+.bo1 {
+    height: 50px;
+    width: 400px;
+    background-color: black;
+    margin: auto;
+    /*margin-top: -10px;
+    margin-left: 510px;*/
+}
+
+.box2 {
+	height: 100px;
+	width: 100%;
+	background-color: black;
+}
+.box3 {
+	height: 100px;
+	width: 100%;
+	background-color: black;
+}
+.box4 {
+	height: 100px;
+	width: 100%;
+	background-color: black;
+}
+
+/*STYLE ON EXTREME PAGE*/
+
+/*
+.background1 {
+	background-image: url(http://feelgrafix.com/data/background/background-8.jpg);
+	height: 80px;
+	width: 100%;
+}
+*/
+
+/*PICS TO CLICK FOR JS ON EXTREME*/
+
+#pic1 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#pic2 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#pic3 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#pic4 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+	margin-top: -50px;
+}
+#pic5{
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+	margin-top: -50px;
+}
+#pic6 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#pic7 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#pic8 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#pic9 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+
+/*COMEDY PICTURES TO CLICK*/
+
+#cpic1 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#cpic2 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#cpic3 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#cpic4 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#cpic5 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#cpic6 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#cpic7 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#cpic8 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+
+/*ARTZY PICTURES TO CLICK*/
+
+#apic1 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#apic2 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#apic3 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#apic4 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+	margin-top: 0px;
+}
+
+/*NO-BOX PICTURES TO CLICK*/
+
+#npic1 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#npic2 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#npic3 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#npic4 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+}
+#npic5 {
+	background-color: black;
+	height: 100px;
+	width: 250px;
+	text-align: center;
+	margin-top: -70px;
+}
+
+/*DESCRIPTION CLASSES FOR ALL*/
+
+.desc1 {
+	display: none;
+}
+.desc2 {
+	display: none;
+}
+.desc3 {
+	display: none;
+}
+.desc4 {
+	display: none;
+}
+.desc5 {
+	display: none;
+}
+.desc6 {
+	display: none;
+}
+.desc7 {
+	display: none;
+}
+.desc8 {
+	display: none;
+}
+.desc9 {
+	display: none;
+}
