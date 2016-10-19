@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web:400i,600i,700i");
+@import url("https://fonts.googleapis.com/css?family=Oswald:400,700");
+
+body {
+	font-family: 'Titillium Web', sans-serif;
+	background-color: #F1655E;
+}
+.box1 {
+    height: 75px;
+    width: 200px;
+    background-color: black;
+    margin-top: 0px;
+    display: inline-block;
+    margin-left: 70px;
+    margin-right: 70px;
+
+}
+.box2 {
+    height: 75px;
+    width: 200px;
+    background-color: black;
+    margin-top: 0px;
+    display: inline-block;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.box3 {
+    height: 75px;
+    width: 200px;
+    background-color: black;
+    margin-top: 0px;
+    display: inline-block;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.box4 {
+    height: 75px;
+    width: 200px;
+    background-color: black;
+    margin-top: 0px;
+    display: inline-block;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+body .box img {
+    height: 300px;
+    width: 375px;
+    text-align: center;
+    margin-top: 0px;
+}
+body img {
+    height: 100px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    display: inline-block;
+}
+body img img {
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+}
+body img img img {
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+}
+body img img img img {
+    height: 100px;
+    width: 200px;
+    display: inline-block;
+}
+h1 {
+	text-align: center;
+	margin-top: 0px;
+	padding-top: 25px;
+	font-size: 20px;
+	font-family: 'Titillium Web:700i', sans-serif;
+	color: white;
+}
+h2 {
+	text-align: center;
+	margin-top: 0px;
+	font-size: 30px;
+	font-family: 'Titillium Web', sans-serif;
+	color: #F1655E;
+}
+.box {
+	height: 360px;
+	width: 100%;
+	background-color: white;
+    text-align: center;
+}
